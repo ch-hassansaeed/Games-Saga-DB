@@ -1,0 +1,24 @@
+.games {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.list-image {
+  width: 100%;
+  height: 260px;
+  margin-top: 30px;
+  object-fit: cover;
+}
+.game-image-div {
+  width: 300px;
+  border: 1.8px solid rgb(141, 141, 141);
+  margin: 30px;
+  border-radius: 4px;
+}
+.game-image-div:active {
+  box-shadow: gray 0px 0px 0px;
+}
+.game-image-div:hover {
+  box-shadow: #636b61 10px 10px 5px;
+  cursor: pointer;
+}

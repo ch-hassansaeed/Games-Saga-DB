@@ -1,0 +1,33 @@
+p {
+  margin: 0;
+  line-height: 2;
+  text-align: justify;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+.back-button {
+  margin: 0;
+  bottom: auto;
+  left: 47;
+  top: 125;
+  right: auto;
+  position: absolute;
+}
+.game-detail-title {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+.description-container {
+  width: 55%;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+.detail-image {
+  margin: 40px 0;
+  max-width: 350px;
+}

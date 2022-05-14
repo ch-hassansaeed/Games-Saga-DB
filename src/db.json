@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Blackjack",
+      "poster": "https://www.mpl.live/blog/wp-content/uploads/2022/02/how-to-play-blackjack.png",
+      "description": "Blackjack is a casino banking game. The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One. This family of card games also includes the British game of Pontoon and the European game, Vingt-et-Un.",
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "title": "Jackpot",
+      "poster": "https://assetstorev1-prd-cdn.unity3d.com/key-image/34ab7b26-12c8-49f4-a22e-a7ddba252a27.jpg",
+      "description": "A jackpot is a game which increases each time the game is played but the jackpot is not won. When the progressive jackpot is won, the jackpot for the next play is reset to a predetermined value, and resumes increasing under the same rule.",
+      "status": "Available"
+    },
+    {
+      "id": 3,
+      "title": "Snooker",
+      "poster": "https://cdn.mos.cms.futurecdn.net/3sDAv5ssZ3ihbP3Xj7U4SV.jpg",
+      "description": "Snooker is a cue sport played on a rectangular table covered with a green cloth called baize, with six pockets, one at each corner and one in the middle of each long side. ",
+      "status": "Available"
+    }
+  ]
+}

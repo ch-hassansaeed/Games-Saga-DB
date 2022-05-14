@@ -1,0 +1,10 @@
+form {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+#form-buttons {
+  display: flex;
+  flex-direction: row-reverse;
+}
